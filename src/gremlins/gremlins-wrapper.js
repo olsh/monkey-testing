@@ -27,7 +27,7 @@
   }
 
   var script = document.createElement('script');
-  script.src = 'https://rawgithub.com/olsh/monkey-testing/master/gremlins/gremlins.min.js';
+  script.src = 'https://rawgit.com/olsh/monkey-testing/master/src/gremlins/gremlins.min.js';
   if (script.addEventListener) {
     script.addEventListener('load', callback, false);
   } else if (script.readyState) {

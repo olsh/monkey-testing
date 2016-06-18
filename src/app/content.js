@@ -8,7 +8,7 @@
 
   var s = document.createElement('script');
   s.id = scriptId;
-  s.src = 'http://localhost:6181/?seed=1234';
+  s.src = 'https://rawgit.com/olsh/monkey-testing/master/src/gremlins/gremlins-wrapper.js';
   document.body.appendChild(s);
 
   window.addEventListener('message', function(event) {
