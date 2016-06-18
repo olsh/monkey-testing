@@ -1,0 +1,26 @@
+html {
+  width: 250px;
+  height: 120px;
+}
+
+.mdl-layout__content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mdl-textfield {
+  width: 100px;
+}
+
+.mdl-button {
+  margin-right: 10px;
+}
+
+#start-container {
+  display: none;
+}
+
+#stop-container {
+  display: none;
+}
