@@ -1,6 +1,6 @@
 {
   "name": "__MSG_appName__",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "manifest_version": 2,
   "description": "__MSG_appDescription__",
   "icons": {
@@ -25,6 +25,6 @@
     "default_title": "Monkey Testing",
     "default_popup": "popup.html"
   },
-  "homepage_url": "http://olsh.github.io/Feedly-Notifier/",
+  "homepage_url": "https://github.com/olsh/monkey-testing",
   "minimum_chrome_version": "28"
 }
