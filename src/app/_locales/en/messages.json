@@ -4,7 +4,7 @@
     "description": "The name of the application"
   },
   "appDescription": {
-    "message": "A simple wrapper for gremlin.js",
+    "message": "A simple Google Chrome extension for monkey testing based on gremlins.js",
     "description": "The description of the application"
   }
 }
